@@ -10,12 +10,11 @@ After noting the rapid growth of the market over the past few years, the strateg
 <div style="text-align:center">
 
     ![alt_text](https://github.com/Aryanpatel335/Leverged-ETF-Trading-Strategy/blob/main/results/result.png)
-    
-
-    _Figure 1: Results of the various switch values and baseline trading strategies for comparison_
+_Figure 1: Results of the various switch values and baseline trading strategies for comparison_
 </div>
+
 <div style="text-align:center">
     ![alt_text](https://github.com/Aryanpatel335/Leverged-ETF-Trading-Strategy/blob/main/results/intraday_results.png)
 
-    _Figure 2: Raw output from dataframe_
+_Figure 2: Raw output from dataframe_
 </div>
