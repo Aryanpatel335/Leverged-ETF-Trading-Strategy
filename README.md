@@ -1,3 +1,3 @@
-# Leverged-ETF-Trading-Strategy
+# Leveraged-ETF-Trading-Strategy
 # Testing TQQQ and SQQQ Leveraged ETF Trading Strategy
-* Note: No Commision Charges were incorporated into the calculations (shoutout WEALTHSIMPLE)
+_Note: No Commission fees were incorporated into the calculations (shoutout WEALTHSIMPLE)_
