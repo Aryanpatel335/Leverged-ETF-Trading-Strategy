@@ -84,7 +84,7 @@ for i,j in enumerate(column_name):
 for i in column_name:
     plt.plot(df_final['date'], df_strategy_output[i], label=i)
 
-print(df_tqqq)
+print(df_final)
 
 plt.plot(df_final['date'], qqq_strategy_trend, linestyle='--', label="QQQ Intra Strategy")
 plt.plot(qqq_data.index, qqq_data['Investment_Value'], label='QQQ Investment')
