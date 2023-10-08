@@ -83,11 +83,11 @@ for i in column_name:
 print(df_intraday_vals)
 print(df_strategy_output)
 
-# intraday_vals_csv = 'intraday_data.csv'
-# strategy_output_csv = 'strategy_output_data.csv'
+intraday_vals_csv = 'csv_data/intraday_data.csv'
+strategy_output_csv = 'csv_data/strategy_output_data.csv'
 
-# df_intraday_vals.to_csv(intraday_vals_csv, index=False)
-# df_strategy_output.to_csv(strategy_output_csv, index=False)
+df_intraday_vals.to_csv(intraday_vals_csv, index=False)
+df_strategy_output.to_csv(strategy_output_csv, index=False)
 
 plt.plot(df_intraday_vals['date'], qqq_strategy_trend, linestyle='--', label="QQQ Intra Strategy")
 plt.plot(qqq_data.index, qqq_data['Investment_Value'], label='QQQ Investment')
