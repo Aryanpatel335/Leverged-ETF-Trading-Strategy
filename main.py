@@ -80,6 +80,9 @@ for i,j in enumerate(column_name):
 for i in column_name:
     plt.plot(df_intraday_vals['date'], df_strategy_output[i], label=i)
 
+df_strategy_output['qqq_intraday'] = qqq_strategy_trend
+df_strategy_output['qqq_simple_investment'] = list(qqq_data['Investment_Value'])
+
 print(df_intraday_vals)
 print(df_strategy_output)
 
