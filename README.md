@@ -1,5 +1,6 @@
 # Leveraged-ETF-Trading-Strategy
 ### Testing TQQQ and SQQQ Leveraged ETF Trading Strategy
+#### Technologies and Libraries Used: Python, yFinance, pandas, matplotlib
 _Note: No Commission fees were incorporated into the calculations (shoutout to WEALTHSIMPLE)_
 
 ### Report PDF: [Leveraged ETF Trading Strategy](https://github.com/Aryanpatel335/Leverged-ETF-Trading-Strategy/blob/main/Leveraged-ETF-Trading-Strategy.pdf)
